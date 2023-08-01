@@ -26,7 +26,10 @@ Eu também tenho um portfolio onde estão algun de meus projetos de maiores rele
 
 ## Minhas estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![244walyson's Stats](https://github-readme-stats.vercel.app/api?username=244walyson&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![244walyson's Streak](https://github-readme-streak-stats.herokuapp.com/?user=244walyson&theme=vue-dark&hide_border=true)
+
+![244walyson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=244walyson&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## Tecnologias
 
