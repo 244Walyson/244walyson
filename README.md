@@ -19,6 +19,12 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 Eu também tenho um portfolio onde estão algun de meus projetos de maiores relevancias (ainda em desenvolvimento...)
 
+## Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&logoColor=white&link=[walysonmoises](https://www.linkedin.com/in/walysonmoises/))](LINK_DO_SEU_PERFIL_NO_LINKEDIN)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/walyson.o0/)](LINK_DO_SEU_PERFIL_NO_INSTAGRAM)
+
 ## Minhas estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
