@@ -6,8 +6,8 @@ Olá! Eu sou o Walyson, um entusiasta no desenvolvimento de software. Meu intere
 
 - 🔭 Atualmente, estou trabalhando em alguns Projetos pessoais sinta se a vontade para explorar meus repositorios.
 - 🌱 Atualmente, estou aprendendo Flutter para desenvolvimento mobile e nodeJs (Express).
-- 💬 Pergunte-me sobre [assuntos ou tecnologias que você domina].
-- 📫 Como me encontrar: [seus perfis de mídia social, e-mail ou outros contatos].
+- 💬 Pergunte-me sobre Java ou C#.
+- 📫 Envie me um email walysonmoises1342@gmail.com.
 
 ## Projetos Destacados
 
