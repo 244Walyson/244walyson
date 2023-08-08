@@ -5,7 +5,7 @@
 Olá! Eu sou o Walyson, um entusiasta no desenvolvimento de software. Meu interesse principal é na are de BakcEnd, mas estou sempre aberto a explorar novas áreas e aprender coisas novas.
 
 - 🔭 Atualmente, estou trabalhando em alguns Projetos pessoais sinta se a vontade para explorar meus repositorios.
-- 🌱 Atualmente, estou aprendendo Flutter para desenvolvimento mobile e nodeJs (Express).
+- 🌱 Atualmente, estou aprendendo Flutter para desenvolvimento mobile.
 - 💬 Pergunte-me sobre Java ou C#.
 - 📫 Envie me um email walysonmoises1342@gmail.com.
 
