@@ -36,7 +36,7 @@ Eu também tenho um portfolio onde estão algun de meus projetos de maiores rele
 Aqui estão algumas das tecnologias e linguagens de programação com as quais estou mais familiarizado:
 
 - Linguagens de Programação: JAVA, C#, Java Script.
-- Tecnologias Front-end: ReactJS, VueJS.
+- Tecnologias Front-end: ReactJS.
 - Tecnologias Back-end: Java Spring, ASP.NET;
 - Bancos de Dados: Postgres, MongoDB, MySQL, SQLServer, Cassandra.
 
