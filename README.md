@@ -46,8 +46,6 @@ Gosto de contribuir para projetos de código aberto e acredito na comunidade de 
 
 ## Agradecimentos
 
-Agradeço a todos os desenvolvedores cujo trabalho duro e código aberto tornaram possível muitas das coisas que fazemos hoje. A comunidade open-source é incrível!
-
 Obrigado por visitar o meu perfil. Sinta-se à vontade para entrar em contato!
 
 
