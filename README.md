@@ -5,15 +5,18 @@
 Olá! Eu sou o Walyson, um entusiasta no desenvolvimento de software. Meu interesse principal é na are de BakcEnd, mas estou sempre aberto a explorar novas áreas e aprender coisas novas.
 
 - 🔭 Atualmente, estou trabalhando em alguns Projetos pessoais sinta se a vontade para explorar meus repositorios.
-- 🌱 Atualmente, estou aprendendo Flutter para desenvolvimento mobile.
+- 🌱 Atualmente, estou estudando padrões arquiteturais e padrões de design de software.
 - 💬 Pergunte-me sobre Java ou C#.
 - 📫 Envie me um email walysonmoises1342@gmail.com.
+- 💻 Aluno Sistemas de Informação PUC Minas.
 
 ## Projetos Destacados
 
 Aqui estão alguns dos meus projetos mais interessantes:
 
--em breve...
+- [![Micro-Serviços (Node, Spring)](https://github.com/244Walyson/microservice-comunication)]
+- [![Catalago de Produtos Back-end em Spring](https://github.com/244Walyson/Catallog)]
+- [![Comercio Eletronico (Front-end em React e Back-end em Spron)](https://github.com/244Walyson/WalyComerce-Front-Back)]
 
 ## Portfólio
 
@@ -37,12 +40,8 @@ Aqui estão algumas das tecnologias e linguagens de programação com as quais e
 
 - Linguagens de Programação: JAVA, C#, Java Script.
 - Tecnologias Front-end: ReactJS.
-- Tecnologias Back-end: Java Spring, ASP.NET;
+- Tecnologias Back-end: Java Spring, Node;
 - Bancos de Dados: Postgres, MongoDB, MySQL, SQLServer, Cassandra.
-
-## Contribuições
-
-Gosto de contribuir para projetos de código aberto e acredito na comunidade de desenvolvedores. Se você tiver algum projeto interessante e precisar de ajuda, adoraria contribuir se puder.
 
 ## Agradecimentos
 
