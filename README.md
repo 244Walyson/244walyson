@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=244walyson&theme=dark&hide_border=true" height="170" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=244walyson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="170" alt="languages graph" />
+  <img  alt="244walyson's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/244walyson?cardType=github&theme=github-dark&preferLogin=false" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=244walyson&locale=en&hide_title=false&layout=compact&card_width=370&langs_count=5&theme=dark&hide_border=true" height="200" alt="languages graph" />
 </p>
 
 <hr/>
